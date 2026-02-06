@@ -1,2 +1,3 @@
 # AI.Prediction-TestScores
-This project investigates whether a computer can predict test scores by analyzing study time and sleep, using an AI model trained in Thonny
+This project investigates whether a computer can predict test scores by analyzing study time and sleep, using an AI model trained in Thonny.
+I wanted to find out if a computer can predict a student’s test score using information about how long they study and how much sleep they get. This matters because it shows how AI can use real-life data to make predictions. I trained an AI model that takes study time and sleep hours as input and predicts a test score. The model learns patterns from the data and uses them to make predictions for new inputs. The tools I used included Thonny, Python, a Simple AI/machine learning model, and the dataset with study time, sleep hours, and test scores. 
